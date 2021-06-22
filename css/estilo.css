@@ -1,0 +1,31 @@
+table .btn {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.marca0 {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.marca1 {
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/estado1.png);
+    background-size: cover;
+    margin: 20px;
+}
+
+.marca2 {
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/estado2.png);
+    background-size: cover;
+    margin: 20px;
+}
+
+#tablero div.col-4{
+    border: #000 1px solid;
+}
